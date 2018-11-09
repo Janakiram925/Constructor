@@ -26,5 +26,7 @@ class External
 		System.out.println(c1.m1());
 		System.out.println(c1.m2());
 		System.out.println("hello");
+		System.out.println("i am fine");
+
 	}
 }
